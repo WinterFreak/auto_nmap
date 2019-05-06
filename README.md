@@ -1,5 +1,5 @@
 # auto_nmap
-a sill information gathering script
+a silly information gathering script
 
 
 usage:  python3  scan.py  hostname
